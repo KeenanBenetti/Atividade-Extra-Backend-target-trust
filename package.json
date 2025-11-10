@@ -1,0 +1,27 @@
+{
+  "name": "atividade-extra-backend-target-trust",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/server.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KeenanBenetti/Atividade-Extra-Backend-target-trust.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KeenanBenetti/Atividade-Extra-Backend-target-trust/issues"
+  },
+  "homepage": "https://github.com/KeenanBenetti/Atividade-Extra-Backend-target-trust#readme",
+  "description": "",
+  "devDependencies": {
+    "@types/express": "^5.0.5",
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
